@@ -1,0 +1,2 @@
+This is the repository of C++ important topics questions.
+In this I covered all importing algorithms .
